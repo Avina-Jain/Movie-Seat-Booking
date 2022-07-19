@@ -1,1 +1,1 @@
-Movie-Seat-Booking app using LocalStorage
+Movie-Seat-Booking app using LocalStorage.
